@@ -1,0 +1,47 @@
+[33mcommit 2c7a654602d2f59b29cf205c463908e0b5370d32[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: MiliIslem96 <islem.mili96@gmail.com>
+Date:   Wed Aug 24 18:54:26 2022 +0100
+
+    services list + users
+
+[33mcommit a48d2d368ae50bee16eee828578166edda218224[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Fri Jul 23 15:57:14 2021 +0100
+
+    barchart not working
+
+[33mcommit b34460d86f7b775f779133646f7adfbca850d7d4[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Fri Jul 23 09:01:30 2021 +0100
+
+    piechart and apexchart interventions working
+
+[33mcommit 4df0f1f6abb7dc980f8be08bcb9fba960185ae15[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Thu Jul 22 11:40:31 2021 +0100
+
+    piechart not working
+
+[33mcommit 79adea4d1b2cf24706baf939e119beedda5c0169[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Fri Jul 16 17:00:04 2021 +0100
+
+    statistics
+
+[33mcommit 4f6e05c4eabb3bb084035c6fb6e08b49cdb6f369[m
+Author: chamsedine-bouhouch <bouhouchchamseddine@gmail.com>
+Date:   Thu Jul 15 00:44:30 2021 +0100
+
+    backend
+
+[33mcommit 1942cf144ae2c42730aeee06c38dc0629ecb7a25[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Wed Jul 14 15:34:18 2021 +0100
+
+    dashboard
+
+[33mcommit abfa1756e40830e2d3c81947719b92c9ffc1ce6f[m
+Author: NadaLabidi1 <nada.labidi@esprit.tn>
+Date:   Tue Jul 13 21:45:49 2021 +0100
+
+    first commit
